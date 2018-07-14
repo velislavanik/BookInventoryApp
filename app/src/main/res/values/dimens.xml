@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin around the floating action button in MainActivity -->
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Common margin value used throughout the app -->
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="paddingTop">8dp</dimen>
+    <dimen name="paddingBiggerTop">16dp</dimen>
+    <dimen name="width_call">50dp</dimen>
+    <dimen name="padding_left">10dp</dimen>
+</resources>
